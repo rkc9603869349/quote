@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "nlquote-chubbcts",
+  "private_key_id": "a479b066710595052e193dc76e0d2d6cdb104871",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCiW25FikKNd1vQ\nTIDwhF8m7jShppbKQy8un5FuO/+Ab2TcAhcVSWCGePyBI2dp3MMplJleoWK8F0fE\nQ2XRHkM+8ARRMaZ02xQeDh0vEeE1bTd43VkNE+lJQC1oZJc9o90dxtCI19K7HagN\nh58+PiTJUP5CglkDSEBE8dGpKVBAY0+kmY4XOJH4aa6B1OVWjNVkALNAfBbXIqZ5\n5ouMrPSfpbvbuhXOuLAUQ1Dyeqd5i1homZoBkZUxlveFrrEGYcd2wMNNO6VggQNG\nWjqUKXhiyTASCm7UlbK+UiYymNPS1zPAYNL45AH5MDDSQdrNK/NaJHW367CHVpyq\nHeWCfzvnAgMBAAECggEAGEOm2tC7eo38lEhius9lsxlFl2UgwxDAY+zoHLvtxwGe\n5ryPO5iwStiZECm84lbiefvh4gEnkum9yYizFko6DZVsZ8AOWweE3asJVIgNCuGM\nOU2HagtwQYjMYH4sFkO/n5wffVwX++wGOiNrOq+p6sZmgYUejX2GUWd8iJYKjtyr\niLyzqXJAExSLVhBXazKpdsIJ7IAonTA9aKahAbEyhYeZpGmJXN+uVdFXzt5eU5GG\nTpJPIolyGYhDDDvThMkoMZeO51hoWG2Gytv3U7iwRBPbDxMLXzU5yKC7OjhAqzbi\nRgvJ2kmAr4nxma9ULKXIMwzkxptrGG4vHAvmoUrGaQKBgQDglas2GcSjNBFGt/3p\nWGsCYalN8OMp/l5y2wWHW2Avom8nitdmEOZASJU1pBh9amdajXJen29c97Exw3KR\nPVht+7eYd5OwGhdLAEchW7uxayuOGo/PRVyZW2WFOmZuRokmnfrEDv1fPbrlyJEj\nnOcPQvSdf/MwEwwjF49rTvbaOQKBgQC5EWhrdVVCnojuYPJnE1BsKWPicPxBnQiq\nT+eZS+OZ6MH6KK6TMGSXCmDeQeX7U989vui4OzahEA4+ZQvXoX/hxB8mFIVSSc0T\nBlh2KLuqiUL8T73ItKzLmy8gGguB7xAHOq2tNg4hK2MSaI6Lg5hqh/4Ey6PuCb+s\nNQZMYL1HHwKBgQCuexk9Ot/Oe9FARAn8lDju7LkAWLnkEj+GtCqjcpZT67q32eJm\n5ZI9NybVOdvc9CG/9Ex6vxth+v2rT9FejW56ZCnLRntzQZH/LwQUIpS7zitUh8Za\nneTHMH669xhFbH95hRsh3xNyPx9JDn3UUT4iWT56bsGdA+9WBCPklsCp4QKBgQC3\nNy2qHLnwvySO4nl4ZB2dRwi01+hUSNOYUIzXLdNAvrazIu1ZmHItOcAWqSS2wRzk\ncwjPwwddQpjnWn/z1NXWu6OevngStC+LIyAWslLADS28vnEDryLWW2a3IDG+S98R\nWR0xuq8YVWy6f7qHEhulc8aeFsDO2uXf5Yq7uJYKPwKBgHc9yOdtGVOsh2bd/ygh\nRW/UhPhx+ikmZxC+wpV8BSR6qvMaUcMo2zwQjrLDQLp9NzAYCc0pZbVvKIul+u5F\ngC5IKXteMKp2nmwIkyxbQzdGEitRIj9R5P90cTJRjowD3u/1TwWsD9GTJpJsCmkI\nDNd35VKvFffrnik01w6XLjG8\n-----END PRIVATE KEY-----\n",
+  "client_email": "nl-demo@nlquote-chubbcts.iam.gserviceaccount.com",
+  "client_id": "109534884226025913938",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/nl-demo%40nlquote-chubbcts.iam.gserviceaccount.com"
+}

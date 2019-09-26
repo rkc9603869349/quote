@@ -1,0 +1,14 @@
+# [START gae_flex_quickstart_yaml]
+runtime: nodejs
+env: flex
+
+manual_scaling:
+  instances: 1
+resources:
+  cpu: 1
+  memory_gb: 0.5
+  disk_size_gb: 10
+
+# [END gae_flex_quickstart_yaml]
+env_variables:
+  GCLOUD_STORAGE_BUCKET: nlquote_bucket

@@ -1,0 +1,45 @@
+{
+  "name": "appengine-hello-world",
+  "description": "NL Quote Sample",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": "Google Inc.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vasanthgh/IPL/tree/master/nodejs/appengine/hello-world/flexible"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha --exit test/*.test.js"
+  },
+  "dependencies": {
+    "@google-cloud/storage": "^3.3.0",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.0",
+    "supertest": "^4.0.2"
+  },
+  "cloud-repo-tools": {
+    "requiresProjectId": true,
+    "requiresKeyFile": true,
+    "test": {
+      "app": {
+        "requiredEnvVars": [
+          "GCLOUD_STORAGE_BUCKET"
+        ],
+        "msg": "<input type=\"file\" name=\"file\">",
+        "substitutions": "nlquote_bucket=$GCLOUD_STORAGE_BUCKET"
+      },
+      "build": {
+        "requiredEnvVars": [
+          "GCLOUD_STORAGE_BUCKET"
+        ]
+      }
+    }
+  }
+}
